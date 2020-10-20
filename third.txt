@@ -9,3 +9,6 @@ changes made in master branch.
 cahnges made in new-branch 
 
 changes made in new-branch again.
+
+
+changes made in branch 1
