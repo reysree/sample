@@ -2,3 +2,7 @@ changed again
 
 ignored text here
 again after branch new
+
+changes made in master branch.
+
+cahnges made in new-branch 
