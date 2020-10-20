@@ -1,4 +1,4 @@
 changed again 
 
 ignored text here
-again
+again after branch new
