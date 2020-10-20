@@ -2,3 +2,5 @@ changed again
 
 ignored text here
 again after branch new
+
+commit after master branch
