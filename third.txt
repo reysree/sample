@@ -13,3 +13,6 @@ changes made in new-branch again.
 
 changes made in branch 1
 changes made in branch 2
+
+
+changes made before branch and stash
